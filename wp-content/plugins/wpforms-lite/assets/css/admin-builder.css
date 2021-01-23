@@ -322,7 +322,7 @@ body {
 	height: 31px;
 	overflow: hidden;
 	border: none;
-	background-image: url('/europtours-web/wp-content/plugins/wpforms-lite/assets/images/times-circle.svg');
+	background-image: url('https://alex35469.github.io/europtours-web/wp-content/plugins/wpforms-lite/assets/images/times-circle.svg');
 	opacity: 0.5;
 	transition: all .3s;
 }
@@ -751,7 +751,8 @@ body {
 	border-bottom: 1px solid #d3d3d3;
 }
 
-#wpforms-builder .wpforms-panel-content-section-title button {
+#wpforms-builder .wpforms-panel-content-section-title button,
+#wpforms-builder .wpforms-panel-content-section-title .button {
 	background-color: #0e6cad;
 	color: #fff;
 	border: none;
@@ -766,7 +767,7 @@ body {
 }
 
 #wpforms-builder .wpforms-panel-content-section-default {
-	background: url(/europtours-web/wp-content/plugins/wpforms-lite/assets/images/builder-default-arrow.png) no-repeat;
+	background: url(https://alex35469.github.io/europtours-web/wp-content/plugins/wpforms-lite/assets/images/builder-default-arrow.png) no-repeat;
 	background-size: 148px 140px;
 	background-position: 50px 40px;
 	text-align: center;

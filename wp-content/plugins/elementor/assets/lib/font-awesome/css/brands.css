@@ -7,8 +7,8 @@
   font-style: normal;
   font-weight: normal;
   font-display: auto;
-  src: url("/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot");
-  src: url("/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot#iefix") format("embedded-opentype"), url("/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2") format("woff2"), url("/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff") format("woff"), url("/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf") format("truetype"), url("/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
+  src: url("https://alex35469.github.io/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot");
+  src: url("https://alex35469.github.io/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot#iefix") format("embedded-opentype"), url("https://alex35469.github.io/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2") format("woff2"), url("https://alex35469.github.io/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff") format("woff"), url("https://alex35469.github.io/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf") format("truetype"), url("https://alex35469.github.io/europtours-web/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg#fontawesome") format("svg"); }
 
 .fab {
   font-family: 'Font Awesome 5 Brands'; }

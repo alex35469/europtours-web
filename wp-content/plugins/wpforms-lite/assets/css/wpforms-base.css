@@ -884,7 +884,7 @@ body.rtl .wpforms-field-phone input[type=tel] {
 
 .wpforms-container .wpforms-datepicker-wrap .wpforms-datepicker-clear {
   position: absolute;
-  background-image: url(/europtours-web/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg);
+  background-image: url(https://alex35469.github.io/europtours-web/wp-content/plugins/wpforms-lite/assets/images/times-solid-white.svg);
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-color: #cccccc;
